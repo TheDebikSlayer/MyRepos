@@ -1,0 +1,17 @@
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\bin\Debug\AirConditioner.exe.config
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\bin\Debug\AirConditioner.exe
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\bin\Debug\AirConditioner.pdb
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.csproj.AssemblyReference.cache
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\MainWindow.g.cs
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\App.g.cs
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner_MarkupCompile.cache
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner_MarkupCompile.lref
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\MainWindow.baml
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.g.resources
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.Properties.Resources.resources
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.csproj.GenerateResource.cache
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.csproj.CoreCompileInputs.cache
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.exe
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\AirConditioner.pdb
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\Authorization.g.cs
+C:\Users\TheDebikSlayer\source\repos\AirConditioner\AirConditioner\obj\Debug\Authorization.baml
